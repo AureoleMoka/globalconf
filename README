@@ -1,0 +1,10 @@
+globalconf README
+
+This is my archlinux server and desktop configuration files.
+
+-- Files to be add --
+.vimrc
+	vim configuration file
+.zshrc
+	zsh configuration file
+
